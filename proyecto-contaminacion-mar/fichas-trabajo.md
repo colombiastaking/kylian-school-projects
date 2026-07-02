@@ -1,148 +1,192 @@
-# 🎨 Fichas de Trabajo: Contaminación en la Bahía de Cartagena
-
-## Ficha 1: "Ubicamos la bahía de Cartagena" 🗺️
-
-### Instrucciones:
-Mira un mapa de Colombia. Encuentra Cartagena y la bahía. Dibuja o pega fotos.
-
-```
-┌─────────────────────────────────────┐
-│                                     │
-│      MAPA DE CARTAGENA              │
-│                                     │
-│   🌊 = Bahía de Cartagena            │
-│   🏙️ = Ciudad                        │
-│   🌧️ = Canal pluvial (Juan Angola)   │
-│   🏭 = Fábrica antigua               │
-│                                     │
-│                                     │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-**La bahía de Cartagena es importante porque:** ________________________________
-
-**Animales que viven allí:** ________________________________
+# 🎨 Fichas de Trabajo — Proyecto STEM+: Contaminación en el Mar
+## ExpoCiencia 2026 | Estudiante: Kylian | Grado: 1° (7 años)
 
 ---
 
-## Ficha 2: "Detectives de Basura" 🕵️‍♂️
+## FICHA 1: "Detectives de Basura" 🕵️‍♂️
+### Áreas STEM+: S (Ciencia), M (Matemáticas), T (Tecnología)
 
-### Instrucciones:
-Busca en tu casa o en revistas 5 cosas que podrían terminar en la bahía. Dibuja o pega.
+**Instrucciones:** Busca en tu casa 5 cosas que podrían terminar en el mar. Clasifica según material y tiempo de descomposición.
 
-| Objeto | ¿Se descompone? | ¿Puede llegar a la bahía? |
-|--------|----------------|---------------------------|
-| 1. ________________ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No |
-| 2. ________________ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No |
-| 3. ________________ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No |
-| 4. ________________ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No |
-| 5. ________________ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No |
+| # | Objeto | Material | ¿Se descompone? | ¿Llega al mar? | Tiempo en descomponerse |
+|---|--------|----------|----------------|----------------|------------------------|
+| 1 | ________________ | Plástico / Papel / Vidrio / Metal / Otro: ___ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No | ________________ |
+| 2 | ________________ | Plástico / Papel / Vidrio / Metal / Otro: ___ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No | ________________ |
+| 3 | ________________ | Plástico / Papel / Vidrio / Metal / Otro: ___ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No | ________________ |
+| 4 | ________________ | Plástico / Papel / Vidrio / Metal / Otro: ___ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No | ________________ |
+| 5 | ________________ | Plástico / Papel / Vidrio / Metal / Otro: ___ | ⭕ Sí  🔴 No | ⭕ Sí  🔴 No | ________________ |
+
+**Conteo total:** ¿Cuántos objetos NO se descomponen? _______
 
 **Mi descubrimiento:** ________________________________
 
 ---
 
-## Ficha 3: "¿Qué ensucia la bahía?" 🔍
+## FICHA 2: "Dibuja el Mar" 🎨
+### Áreas STEM+: S (Ciencia), +A (Artes)
 
-### Instrucciones:
-Marca con ✅ las cosas que ensucian la bahía de Cartagena.
+**Instrucciones:** Dibuja y etiqueta las diferencias entre un mar limpio y uno contaminado.
 
-- [ ] Botellas de plástico
-- [ ] Peces
-- [ ] Bolsas
-- [ ] Manglares
-- [ ] Agua de lluvia con basura
-- [ ] Jabones y desechos del baño
-- [ ] Arena de la playa
-- [ ] Desechos de fábricas
-- [ ] Colillas de cigarro
-- [ ] Aves
+```
+┌─────────────────────────┐    ┌─────────────────────────┐
+│                         │    │                         │
+│     MAR LIMPIO          │    │     MAR CONTAMINADO     │
+│     (Saludable)         │    │     (Contaminado)       │
+│                         │    │                         │
+│                         │    │                         │
+│                         │    │                         │
+│                         │    │                         │
+│                         │    │                         │
+│                         │    │                         │
+│                         │    │                         │
+└─────────────────────────┘    └─────────────────────────┘
+```
 
-**¿Cuáles son las 3 más peligrosas?**
+**Animales que viven aquí:** ________________________________
+
+**¿Qué les pasa cuando hay basura?** ________________________________
+
+**¿Qué diferencias ves entre los dos mares?**
 1. ________________________________
 2. ________________________________
 3. ________________________________
 
 ---
 
-## Ficha 4: "Dibuja la bahía" 🎨
+## FICHA 3: "Mi Promesa al Mar" 🌊
+### Áreas STEM+: E (Ingeniería), +A (Artes), +SS (Sociales)
 
-### Instrucciones:
-En la primera caja, dibuja una **bahía limpia** con animales felices.  
-En la segunda caja, dibuja una **bahía sucia** con basura y animales tristes.
+**Instrucciones:** Escribe 3 acciones concretas que tú y tu familia van a hacer para cuidar el mar. Piensa en cambios reales que pueden hacer en casa.
 
-```
-┌─────────────────────┐    ┌─────────────────────┐
-│                     │    │                     │
-│   BAHÍA LIMPIA      │    │   BAHÍA SUCIA       │
-│   🐠🐢🦀🌊🌿       │    │   😢🛢️🥤🛢️        │
-│                     │    │                     │
-│                     │    │                     │
-│                     │    │                     │
-└─────────────────────┘    └─────────────────────┘
-```
+**Mi promesa #1 (Reducir):**
+________________________________
+________________________________
 
-**¿Qué diferencias ves?** ________________________________
+**Mi promesa #2 (Reutilizar):**
+________________________________
+________________________________
 
----
+**Mi promesa #3 (Reciclar):**
+________________________________
+________________________________
 
-## Ficha 5: "Historia del pez Juan" 🐟
-
-### Instrucciones:
-Dibuja una historieta de 4 cuadros.
+**Dibujo de mi cartel:**
 
 ```
-┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐
-│         │   │         │   │         │   │         │
-│  1      │   │  2      │   │  3      │   │  4      │
-│         │   │         │   │         │   │         │
-│ Pez     │   │ Llega   │   │ Pez se  │   │ Niños   │
-│ feliz   │   │ basura  │   │ siente  │   │ limpian │
-│         │   │         │   │ mal     │   │         │
-│         │   │         │   │         │   │         │
-└─────────┘   └─────────┘   └─────────┘   └─────────┘
+┌─────────────────────────┐
+│                         │
+│   MIS PROMESAS AL MAR   │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+└─────────────────────────┘
 ```
-
----
-
-## Ficha 6: "Observación del Experimento" 🔬
-
-### Instrucciones:
-Después de hacer el experimento con la botella, dibuja lo que viste.
-
-**ANTES** (agua limpia):          **DESPUÉS** (con contaminación):
-
-```
-┌─────────────────────┐    ┌─────────────────────┐
-│                     │    │                     │
-│                     │    │                     │
-│                     │    │                     │
-│                     │    │                     │
-│                     │    │                     │
-│                     │    │                     │
-└─────────────────────┘    └─────────────────────┘
-```
-
-**¿Qué cambió?** ________________________________
-
-**¿Cómo se sienten los peces?** ⭕ Felices  ⭕ Tristes
-
----
-
-## Ficha 7: "Mi Promesa a la bahía de Cartagena" 🌊
-
-### Instrucciones:
-Escribe 3 cosas que tú, tu familia y tu escuela van a hacer para cuidar la bahía.
-
-**Yo voy a:** ________________________________
-
-**Mi familia va a:** ________________________________
-
-**Mi escuela puede:** ________________________________
 
 **Firma:** ________________ **Fecha:** ________________
 
 ---
 
+## FICHA 4: "Observación del Experimento" 🔬
+### Áreas STEM+: S (Ciencia), M (Matemáticas), E (Ingeniería)
+
+**Experimento:** "Océano en una Botella"
+**Materiales:** Botella, agua, arena, aceite, plásticos
+
+### ANTES (Estado Inicial)
+**Dibujo:**
+
+```
+┌─────────────────────────┐
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+└─────────────────────────┘
+```
+
+**Descripción:** El agua está ________________ (limpia/turbia)
+
+**¿Qué ves en el fondo?** ________________________________
+
+**¿Qué animales podrían vivir aquí?** ________________________________
+
+---
+
+### DESPUÉS (Después de agregar aceite y plásticos)
+**Dibujo:**
+
+```
+┌─────────────────────────┐
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+│                         │
+└─────────────────────────┘
+```
+
+**Descripción:** El agua está ________________ (limpia/turbia)
+
+**¿Qué cambió en la superficie?** ________________________________
+
+**¿Dónde quedaron los plásticos?** ⭕ Fondo  ⭕ Medio  ⭕ Superficie
+
+**¿Cómo se sienten los peces?** ⭕ Felices  ⭕ Tristes  ⭕ Enfermos
+
+---
+
+### ANÁLISIS
+
+**¿Qué pasó cuando agregaste aceite?**
+________________________________
+
+**¿Qué pasó cuando agregaste plásticos?**
+________________________________
+
+**¿Por qué es peligroso para los animales?**
+________________________________
+
+**¿Cuántos minutos dejamos reposar el experimento?** _______ minutos
+
+**¿Qué pasó después de reposar?**
+________________________________
+
+---
+
+## FICHA 5: "Mi Presentación ExpoPlay" 🎪
+### Áreas STEM+: T (Tecnología), +A (Artes), +SS (Sociales)
+
+**Instrucciones:** Prepara tu actividad con la audiencia.
+
+**Nombre de mi actividad:** ________________________________
+
+**Materiales que necesito:**
+1. ________________________________
+2. ________________________________
+3. ________________________________
+
+**Paso 1:** ________________________________
+
+**Paso 2:** ________________________________
+
+**Paso 3:** ________________________________
+
+**Pregunta para la audiencia:** ________________________________
+
+**Mi frase para invitar a participar:**
+________________________________
+
+---
+
 *¡Comparte tus fichas con tu familia!* 👨‍👩‍👧‍👦
+*Proyecto STEM+ para ExpoCiencia 2026*
