@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Diploma Guardián de la Bahía de Cartagena</title>
+<style>
+  @page { size: A4 landscape; margin: 0; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; margin: 0; padding: 0; background: #e0f7fa; }
+  .diploma {
+    width: 297mm;
+    height: 210mm;
+    box-sizing: border-box;
+    padding: 15mm;
+    background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
+    border: 12px solid #00838f;
+    position: relative;
+    text-align: center;
+  }
+  .diploma::before {
+    content: "";
+    position: absolute;
+    top: 8mm; left: 8mm; right: 8mm; bottom: 8mm;
+    border: 4px double #00acc1;
+    pointer-events: none;
+  }
+  .corner {
+    position: absolute;
+    font-size: 36pt;
+    opacity: 0.25;
+  }
+  .tl { top: 12mm; left: 12mm; }
+  .tr { top: 12mm; right: 12mm; }
+  .bl { bottom: 12mm; left: 12mm; }
+  .br { bottom: 12mm; right: 12mm; }
+  h1 {
+    font-size: 32pt;
+    color: #006064;
+    margin: 0 0 4mm 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  .subtitle {
+    font-size: 16pt;
+    color: #00838f;
+    margin-bottom: 8mm;
+  }
+  .award {
+    font-size: 22pt;
+    color: #004d40;
+    margin: 6mm 0;
+  }
+  .name-line {
+    font-size: 28pt;
+    color: #006064;
+    border-bottom: 3px solid #00838f;
+    display: inline-block;
+    min-width: 140mm;
+    padding: 0 10mm;
+    margin: 4mm 0;
+    font-family: 'Brush Script MT', cursive;
+  }
+  .promise {
+    font-size: 14pt;
+    color: #004d40;
+    margin: 8mm auto;
+    max-width: 220mm;
+    line-height: 1.5;
+    background: #fff9c4;
+    padding: 5mm;
+    border-radius: 8px;
+    border-left: 6px solid #fbc02d;
+  }
+  .footer {
+    position: absolute;
+    bottom: 22mm;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 30mm;
+  }
+  .signature-box {
+    text-align: center;
+    width: 80mm;
+  }
+  .signature-line {
+    border-top: 2px solid #004d40;
+    margin-top: 15mm;
+    padding-top: 2mm;
+    font-size: 12pt;
+    color: #004d40;
+  }
+  .date {
+    font-size: 12pt;
+    color: #004d40;
+    margin-top: 10mm;
+  }
+  .seal {
+    position: absolute;
+    bottom: 25mm;
+    right: 30mm;
+    width: 35mm;
+    height: 35mm;
+    background: #00838f;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10pt;
+    font-weight: bold;
+    transform: rotate(-15deg);
+    border: 4px double white;
+  }
+</style>
+</head>
+<body>
+<div class="diploma">
+  <div class="corner tl">🌊</div>
+  <div class="corner tr">🐢</div>
+  <div class="corner bl">🐠</div>
+  <div class="corner br">🌿</div>
+
+  <h1>Diploma de Guardián de la Bahía</h1>
+  <div class="subtitle">Proyecto STEM+ — ExpoCiencia 2026 — Cartagena, Colombia</div>
+
+  <div class="award">
+    Otorgado a:
+  </div>
+  <div class="name-line">_______________________________</div>
+
+  <div class="promise">
+    Por comprometerse a cuidar la <strong>Bahía de Cartagena</strong>,<br>
+    no botar basura en la calle, proteger los canales pluviales<br>
+    y ayudar a que los peces, tortugas y manglares vivan en agua limpia.
+  </div>
+
+  <div class="date">
+    Cartagena, ____________________ de ____________________ de 2026
+  </div>
+
+  <div class="footer">
+    <div class="signature-box">
+      <div class="signature-line">Kylian<br><small>Guardián Principal</small></div>
+    </div>
+    <div class="signature-box">
+      <div class="signature-line">Profesor(a)<br><small>Colegio</small></div>
+    </div>
+  </div>
+
+  <div class="seal">
+    🌊<br>GUARDIÁN<br>DE LA BAHÍA
+  </div>
+</div>
+</body>
+</html>
