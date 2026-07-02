@@ -6,7 +6,7 @@
 
 ## 🏷️ TÍTULO DEL PROYECTO
 
-> **"Guardianes de la Bahía: ¿Cómo cuidar el mar de Cartagena?"**
+> **"Guardianes de la Bahía: Cuidando Cartagena desde Bazurto hasta Punta Canoa"**
 
 ---
 
@@ -22,23 +22,25 @@
 
 ## ❓ PREGUNTA DE INVESTIGACIÓN
 
-> **"¿Qué cosas ensucian la bahía de Cartagena y cómo afectan a los animales, las plantas y las personas que viven cerca?"**
+> **"¿Cómo ensucian la bahía de Cartagena los desbordamientos de agua, el mercado de Bazurto y el vertimiento cerca del faro de Punta Canoa?"**
 
 ### ¿Qué queremos descubrir?
-> **"¿Qué basura y suciedad llegan a la bahía cuando llueve mucho, por los canales pluviales y por las fábricas antiguas?"**
+> **"¿Qué basura y aguas sucias llegan a la bahía de Cartagena desde la ciudad, el mercado de Bazurto y el vertimiento cerca del faro de Punta Canoa?"**
 
 ### Preguntas secundarias (para investigar con mamá, papá o el profesor):
 1. **¿Qué pasa en Cartagena cuando llueve mucho?** → El agua de las calles se lleva basura hacia los canales y la bahía.
 2. **¿Qué es el canal de Juan Angola?** → Es un canal pluvial que lleva agua de lluvia, pero a veces también arrastra basura.
-3. **¿Qué animales y plantas viven en la bahía?** → Peces, cangrejos, aves, manglares, algas.
-4. **¿Cómo se enferman las personas si el agua está sucia?** → Al bañarse, comer pescado contaminado o respirar malos olores.
-5. **¿Qué podemos hacer en casa y en la escuela para ayudar?**
+3. **¿Cómo contamina el mercado de Bazurto?** → Genera mucha basura orgánica (restos de comida, bolsas, cajas) que puede llegar a la bahía.
+4. **¿Qué pasa cerca del faro de Punta Canoa?** → Hay un vertimiento donde salen aguas sucias o residuos al mar.
+5. **¿Qué animales y plantas viven en la bahía?** → Peces, cangrejos, aves, manglares, algas.
+6. **¿Cómo se enferman las personas si el agua está sucia?** → Al bañarse, comer pescado contaminado o respirar malos olores.
+7. **¿Qué podemos hacer en casa y en la escuela para ayudar?**
 
 ---
 
 ## 🎯 OBJETIVO GENERAL
 
-**Identificar** las principales causas de contaminación de la bahía de Cartagena (desbordamientos urbanos, canales pluviales como Juan Angola, basura doméstica, contaminación industrial e histórica), **analizar** cómo afectan al ecosistema y a la salud humana, y **proponer** acciones concretas que una familia puede implementar para cuidar la bahía.
+**Identificar** las principales causas de contaminación de la bahía de Cartagena, especialmente los desbordamientos urbanos, el canal de Juan Angola, el mercado de Bazurto y el vertimiento cerca del faro de Punta Canoa; **analizar** cómo afectan al ecosistema y a la salud humana; y **proponer** acciones concretas que una familia puede implementar para cuidar la bahía.
 
 ### Objetivos específicos:
 | # | Objetivo | Actividad |
@@ -65,10 +67,11 @@ La bahía de Cartagena es un lugar muy importante:
 | Causa | ¿Qué significa? | Ejemplo para niños |
 |-------|---------------|---------------------|
 | 🌧️ **Desbordamientos urbanos** | Cuando llueve mucho, el agua rebosa por las calles y se lleva basura. | "La calle se convierte en un río de agua y botellas." |
-| 🚰 **Canales pluviales (Juan Angola)** | Canales hechos para llevar el agua de lluvia al mar. | "Como un desagüe grande que a veces lleva basura." |
-| 🏭 **Contaminación industrial** | Fábricas que tiran residuos al agua. | "Líquidos de color o mal olor que dañan el agua." |
-| ⏳ **Contaminación histórica** | Basura y sustancias viejas acumuladas durante muchos años. | "Suciedad que quedó hace tiempo y aún daña la bahía." |
-| 🥤 **Basura de las personas** | Botellas, bolsas, colillas, comida tirada. | "Lo que botamos en la calle puede llegar al mar." |
+| 🚰 **Canal de Juan Angola** | Canal pluvial que lleva agua de lluvia de la ciudad hacia la bahía. | "Como un desagüe grande que a veces lleva basura." |
+| 🥬 **Mercado de Bazurto** | Mercado grande donde se vende comida; genera restos de frutas, verduras, bolsas y cajas. | "Mucha basura de comida y plástico que puede llegar al agua." |
+| 🏭 **Contaminación industrial e histórica** | Fábricas y sustancias viejas acumuladas durante años. | "Líquidos de color o mal olor que dañan el agua desde hace mucho tiempo." |
+| 💩 **Vertimiento cerca del faro de Punta Canoa** | Lugar donde salen aguas residuales o sucias al mar. | "Como un tubo que bota agua sucia cerca del faro." |
+| 🥤 **Basura de las personas** | Botellas, bolsas, colillas, comida tirada en la calle o playa. | "Lo que botamos en la calle puede llegar al mar." |
 
 ---
 
@@ -119,10 +122,14 @@ La bahía de Cartagena es un lugar muy importante:
 
 ## 🔬 PROCEDIMIENTO
 
-### **Actividad 1: Ubicamos la bahía de Cartagena (20 min)**
-1. Observar fotos o videos de la bahía de Cartagena.
-2. Ubicar Cartagena, la bahía, el canal de Juan Angola y la ciudad en un mapa.
-3. Dibujar y etiquetar las partes principales.
+### **Actividad 1: Ubicamos los puntos en el mapa de Cartagena (20 min)**
+1. Observar fotos o videos de la bahía de Cartagena, el mercado de Bazurto y el faro de Punta Canoa.
+2. Ubicar en un mapa:
+   - La bahía de Cartagena 🌊
+   - El canal de Juan Angola 🚰
+   - El mercado de Bazurto 🥬
+   - El faro de Punta Canoa 💡
+3. Dibujar y etiquetar: "La basura de Bazurto y el agua del canal llegan a la bahía. El vertimiento cerca del faro también ensucia el mar."
 
 ### **Actividad 2: Clasificación Científica "Detectives de Basura" (30 min)**
 1. Buscar 10 objetos comunes del hogar o recortar fotos.
@@ -133,19 +140,21 @@ La bahía de Cartagena es un lugar muy importante:
 1. Llenar botella con agua limpia hasta ¾ (bahía sana).
 2. Agregar arena (fondo marino).
 3. **Documentar estado inicial** (dibujo + descripción).
-4. Agregar aceite vegetal — simular derrame industrial.
-5. Agregar trozos de plástico — simular basura urbana.
-6. Agregar tierra o café — simular aguas de desbordamiento.
-7. Agitar suavemente y observar.
-8. Dejar reposar 10 minutos.
-9. **Documentar estado final** (dibujo + descripción).
+4. Agregar restos de comida (pedacitos de cáscara o hoja) — simular basura orgánica del mercado de Bazurto.
+5. Agregar aceite vegetal — simular derrame industrial y grasas.
+6. Agregar trozos de plástico — simular bolsas y botellas.
+7. Agregar tierra o café — simular aguas de desbordamiento del canal de Juan Angola.
+8. Agregar un poco de vinagre o colorante oscuro — simular vertimiento cerca del faro de Punta Canoa.
+9. Agitar suavemente y observar.
+10. Dejar reposar 10 minutos.
+11. **Documentar estado final** (dibujo + descripción).
 
 ### **Actividad 4: Historieta del pez Juan (20 min)**
 1. Dibujar 4 viñetas:
-   - Pez feliz en bahía limpia.
-   - Llega basura por el canal.
-   - Pez se siente mal.
-   - Niños limpian y el pez vuelve a sonreír.
+   - Pez feliz nadando cerca del faro de Punta Canoa.
+   - Llega basura desde el mercado de Bazurto y el canal de Juan Angola.
+   - Pez se siente mal por el agua sucia.
+   - Niños de Cartagena limpian y el pez vuelve a sonreír.
 2. Escribir una frase en cada viñeta.
 
 ### **Actividad 5: Análisis y Propuesta (25 min)**
@@ -163,9 +172,9 @@ La bahía de Cartagena es un lugar muy importante:
 **Método científico aplicado:**
 
 - **Observación:** Documentar características visuales de bahía saludable vs. contaminada.
-- **Hipótesis:** *"Si arrojamos plásticos, aceite y tierra al agua, los animales marinos no podrán vivir bien porque el agua se vuelve tóxica."*
+- **Hipótesis:** *"Si arrojamos al agua plásticos, aceite, restos de comida y tierra, como pasa en la bahía de Cartagena, los animales marinos no podrán vivir bien porque el agua se vuelve tóxica."*
 - **Experimentación:** Simular ecosistema de la bahía con variables controladas.
-- **Análisis:** El aceite forma capa superficial; plásticos se fragmentan; tierra enturbia el agua.
+- **Análisis:** El aceite forma capa superficial; plásticos se fragmentan; la tierra enturbia el agua; los restos orgánicos se descomponen y hacen mal olor.
 - **Conclusión:** La contaminación altera la química del agua y daña la fauna marina.
 
 **Disciplinas:** Biología marina, Química, Física (flotación, densidad), Ecología.
@@ -204,7 +213,7 @@ La bahía de Cartagena es un lugar muy importante:
 
 **Artes:** Ilustraciones comparativas, diseño del cartel, código de colores para peligro.
 
-**Estudios Sociales:** Responsabilidad compartida — "Mi basura puede afectar a alguien en otra parte de la ciudad."
+**Estudios Sociales:** Responsabilidad compartida — "La basura del mercado de Bazurto y de nuestras calles puede llegar hasta la bahía y hacer daño a todos."
 
 **Economía familiar:** Ahorro con botellas reutilizables vs. agua embotellada; bolsa de tela vs. 500 bolsas plásticas.
 
@@ -214,11 +223,15 @@ La bahía de Cartagena es un lugar muy importante:
 
 **"Detectives de Basura en la Bahía"**
 
-1. **Preparación:** 10 objetos comunes en una caja misteriosa.
-2. **Interacción:** 3 compañeros clasifican objetos en "Se descompone" vs. "No se descompone".
+1. **Preparación:** 10 objetos comunes en una caja misteriosa (botella, bolsa, cáscara de fruta, colilla, caja, lata, papel, etc.).
+2. **Interacción:** 3 compañeros clasifican objetos según su origen:
+   - Del mercado de Bazurto 🥬
+   - De los desbordamientos o el canal 🌧️
+   - Del vertimiento / industria 💩
+   - Basura de la playa 🥤
 3. **Desafío:** Adivinar cuántos años tarda cada objeto en desaparecer del mar.
 4. **Revelación:** Tabla con tiempos reales de descomposición.
-5. **Compromiso colectivo:** Todos escriben una "Promesa a la Bahía" y la pegan en mural.
+5. **Compromiso colectivo:** Todos escriben una "Promesa a la Bahía de Cartagena" y la pegan en mural.
 
 **Duración:** 5-7 minutos
 
@@ -228,7 +241,14 @@ La bahía de Cartagena es un lugar muy importante:
 
 ### Resultados Clave
 
-1. **Contaminantes identificados:** Plásticos, aceites, jabones, vidrio, papel, tierra de desbordamientos.
+1. **Contaminantes identificados:** Plásticos, aceites, grasas, restos de comida del mercado, jabones, vidrio, papel, tierra de desbordamientos.
+
+2. **Fuentes identificadas:**
+   - Desbordamientos urbanos de Cartagena.
+   - Canal de Juan Angola.
+   - Mercado de Bazurto (restos de frutas, verduras, plásticos, cajas).
+   - Vertimiento cerca del faro de Punta Canoa.
+   - Basura tirada en la calle y la playa.
 
 2. **Observaciones del experimento:**
    - Aceite forma capa opaca que impide visión del fondo.
@@ -243,9 +263,10 @@ La bahía de Cartagena es un lugar muy importante:
    - Manglares se debilitan.
 
 4. **Impacto en salud humana:**
-   - Pescado contaminado.
-   - Enfermedades por gérmenes en el agua.
-   - Malos olores y playas sucias.
+   - Pescado contaminado por toxinas.
+   - Enfermedades en el estómago al bañarse en aguas sucias.
+   - Malos olores que afectan a barrios cercanos al mercado de Bazurto y al canal de Juan Angola.
+   - Playas sucias donde no se puede nadar ni jugar.
 
 5. **Acciones propuestas:**
    - Botellas reutilizables.
@@ -299,22 +320,24 @@ Durante la semana del proyecto:
 
 ## 📝 Conversaciones Guía para Mamá, Papá o Profesor
 
-- "¿Conoces la bahía de Cartagena? ¿Qué animales crees que viven allí?"
-- "¿Qué pasa cuando llueve mucho en nuestra ciudad?"
-- "¿Has visto un canal como el de Juan Angola? ¿Qué pasa si tiene basura?"
-- "¿Cómo se siente un pez si come plástico?"
-- "¿Qué podemos hacer en casa para que menos basura llegue al mar?"
+- "¿Conoces la bahía de Cartagena, el mercado de Bazurto o el faro de Punta Canoa?"
+- "¿Qué pasa cuando llueve mucho en Cartagena? ¿Adónde va el agua?"
+- "¿Has visto el canal de Juan Angola? ¿Qué pasa si tiene basura?"
+- "¿Qué tipo de basura puede generar el mercado de Bazurto?"
+- "¿Qué crees que sale por el vertimiento cerca del faro de Punta Canoa?"
+- "¿Cómo se siente un pez si come plástico o nada en agua sucia?"
+- "¿Qué podemos hacer en casa para que menos basura llegue a la bahía?"
 
 ---
 
 ## 🎤 Ideas para la Presentación en Clase
 
 Kylian puede presentar:
-1. Mostrar el mapa de la bahía de Cartagena.
-2. Explicar la "Bahía en una Botella".
+1. Mostrar el mapa con los puntos: bahía de Cartagena, canal Juan Angola, mercado Bazurto, faro Punta Canoa.
+2. Explicar la "Bahía en una Botella" y qué representa cada ingrediente.
 3. Leer la historieta del pez Juan.
-4. Mostrar su cartel con las promesas.
-5. Invitar a compañeros a jugar "Detectives de Basura".
+4. Mostrar su cartel con las promesas para Cartagena.
+5. Invitar a compañeros a jugar "Detectives de Basura de la Bahía".
 
 ---
 
