@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Cartelera A3 - Guardianes de la Bahía de Cartagena</title>
+<style>
+  @page { size: A3 portrait; margin: 12mm; }
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background: #e0f7fa; color: #003344; }
+  .poster { width: 297mm; min-height: 420mm; padding: 12mm; box-sizing: border-box; background: linear-gradient(180deg, #e0f7fa 0%, #ffffff 100%); }
+  h1 { font-size: 28pt; text-align: center; margin: 0 0 4mm 0; color: #006064; }
+  h2 { font-size: 16pt; color: #00838f; border-bottom: 3px solid #00acc1; padding-bottom: 2mm; margin: 5mm 0 3mm 0; }
+  h3 { font-size: 13pt; color: #006064; margin: 3mm 0 2mm 0; }
+  .subtitle { font-size: 13pt; text-align: center; margin-bottom: 5mm; color: #00695c; }
+  .authors { font-size: 11pt; text-align: center; margin-bottom: 4mm; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; }
+  .box { background: white; border-radius: 8px; padding: 4mm; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  .full { grid-column: 1 / -1; }
+  .highlight { background: #fff9c4; border-left: 5px solid #fbc02d; padding: 3mm; font-size: 11pt; }
+  p, li { font-size: 10.5pt; line-height: 1.35; margin: 1.5mm 0; }
+  ul { margin: 0; padding-left: 5mm; }
+  .emoji { font-size: 1.2em; }
+  .map { width: 100%; height: 95mm; background: #4dd0e1; border-radius: 50% 50% 45% 45%; position: relative; border: 5px solid #0097a7; overflow: hidden; margin-bottom: 3mm; }
+  .city { position: absolute; top: 38%; left: 50%; transform: translate(-50%, -50%); font-size: 12pt; background: #ffcc80; padding: 2mm 4mm; border-radius: 6px; font-weight: bold; }
+  .bazurto { position: absolute; top: 25%; left: 25%; font-size: 10pt; background: #a5d6a7; padding: 2mm 3mm; border-radius: 6px; }
+  .canal { position: absolute; top: 46%; left: 32%; font-size: 9pt; background: #90caf9; padding: 1.5mm 3mm; border-radius: 6px; }
+  .punta-canoa { position: absolute; top: 72%; left: 72%; font-size: 10pt; background: #ef9a9a; padding: 2mm 3mm; border-radius: 6px; }
+  .arrow { position: absolute; font-size: 16pt; }
+  .arrow1 { top: 32%; left: 36%; transform: rotate(30deg); }
+  .arrow2 { top: 52%; left: 52%; transform: rotate(45deg); }
+  .arrow3 { top: 66%; left: 65%; transform: rotate(-10deg); }
+  .fish { position: absolute; bottom: 22%; left: 18%; font-size: 24pt; }
+  .turtle { position: absolute; bottom: 30%; left: 55%; font-size: 24pt; }
+  .trash { position: absolute; bottom: 18%; left: 40%; font-size: 16pt; opacity: 0.7; }
+  .badge { display: inline-block; background: #00838f; color: white; padding: 1mm 2mm; border-radius: 4px; margin: 0.5mm; font-size: 9pt; }
+  table { width: 100%; border-collapse: collapse; font-size: 9pt; }
+  th, td { border: 1.5px solid #b2ebf2; padding: 1.5mm; text-align: left; }
+  th { background: #00acc1; color: white; }
+  .promise-box { background: #c8e6c9; border-radius: 6px; padding: 3mm; }
+  .footer { font-size: 8pt; text-align: center; margin-top: 5mm; color: #555; }
+  .two-col { columns: 2; column-gap: 5mm; }
+  .center { text-align: center; }
+</style>
+</head>
+<body>
+<div class="poster">
+  <h1>🌊 Guardianes de la Bahía de Cartagena</h1>
+  <div class="subtitle">Proyecto STEM+ — ExpoCiencia 2026 — Primer Grado</div>
+  <div class="authors"><strong>Kylian</strong> | Colegio: (por confirmar) | Asistente: Alice 🤖</div>
+
+  <div class="grid">
+    <div class="box full">
+      <div class="highlight">
+        <strong>🔍 Pregunta:</strong> "¿Cómo ensucian la bahía de Cartagena los desbordamientos de agua, el mercado de Bazurto y el vertimiento cerca del faro de Punta Canoa?"
+      </div>
+    </div>
+
+    <div class="box full">
+      <h2>🗺️ Mapa de la Contaminación</h2>
+      <div class="map">
+        <div class="city">🏙️ Cartagena</div>
+        <div class="bazurto">🥬 Mercado Bazurto</div>
+        <div class="canal">🚰 Canal Juan Angola</div>
+        <div class="punta-canoa">💡 Faro Punta Canoa + 💩 vertimiento</div>
+        <div class="arrow arrow1">➡️</div>
+        <div class="arrow arrow2">➡️</div>
+        <div class="arrow arrow3">➡️</div>
+        <div class="fish">🐠</div>
+        <div class="turtle">🐢</div>
+        <div class="trash">🥤🛢️🥬💩</div>
+      </div>
+      <p class="center">La basura y el agua sucia llegan desde la ciudad, Bazurto y el canal hacia la bahía. El vertimiento cerca del faro de Punta Canoa también ensucia el mar.</p>
+    </div>
+
+    <div class="box">
+      <h2>🌧️ Desbordamientos Urbanos</h2>
+      <p>Cuando llueve mucho, el agua de las calles arrastra:</p>
+      <ul>
+        <li>🥤 Botellas plásticas</li>
+        <li>🛍️ Bolsas</li>
+        <li>🚬 Colillas</li>
+        <li>🗑️ Tierra y basura</li>
+      </ul>
+      <p>Esa agua va al <strong>canal de Juan Angola</strong> y luego a la bahía.</p>
+    </div>
+
+    <div class="box">
+      <h2>🥬 Mercado de Bazurto</h2>
+      <p>Genera muchos residuos:</p>
+      <ul>
+        <li>🍌 Cáscaras de fruta y verdura</li>
+        <li>📦 Bolsas y cajas</li>
+        <li>💧 Grasas y aguas sucias</li>
+        <li>🐟 Restos de pescado</li>
+      </ul>
+      <p>Si no se recogen bien, llegan a la bahía.</p>
+    </div>
+
+    <div class="box">
+      <h2>💡 Faro de Punta Canoa</h2>
+      <p>Cerca hay un <strong>vertimiento</strong> donde salen:</p>
+      <ul>
+        <li>💩 Aguas residuales</li>
+        <li>🟤 Sustancias de color oscuro</li>
+        <li>🤢 Mal olor</li>
+        <li>🧪 Productos químicos</li>
+      </ul>
+      <p>Esto daña el agua cerca de la costa.</p>
+    </div>
+
+    <div class="box">
+      <h2>🎯 Objetivo</h2>
+      <p><strong>Identificar</strong> las causas de contaminación, <strong>analizar</strong> cómo afectan al ecosistema y a la salud humana, y <strong>proponer</strong> acciones para cuidar la bahía.</p>
+    </div>
+
+    <div class="box full">
+      <h2>🐠🦀 Impacto en el Ecosistema y la Salud</h2>
+      <table>
+        <tr><th>Animal / Problema</th><th>¿Qué le pasa?</th></tr>
+        <tr><td>🐠 Peces</td><td>Se comen microplásticos y se enferman.</td></tr>
+        <tr><td>🐢 Tortugas</td><td>Confunden bolsas con medusas.</td></tr>
+        <tr><td>🦀 Cangrejos</td><td>Pierden su hogar en el fondo sucio.</td></tr>
+        <tr><td>🌳 Manglares</td><td>Se debilitan y no limpian el agua.</td></tr>
+        <tr><td>🦆 Aves</td><td>Se enredan con plásticos.</td></tr>
+        <tr><td>🦠 Personas</td><td>Gérmenes causan enfermedades; pescado contaminado.</td></tr>
+      </table>
+    </div>
+
+    <div class="box">
+      <h2>🧪 Experimento</h2>
+      <p><strong>"La Bahía en una Botella"</strong></p>
+      <table>
+        <tr><th>Ingrediente</th><th>Representa</th></tr>
+        <tr><td>Agua + arena</td><td>Bahía sana</td></tr>
+        <tr><td>Restos de comida</td><td>Mercado Bazurto</td></tr>
+        <tr><td>Aceite</td><td>Grasas e industria</td></tr>
+        <tr><td>Plásticos</td><td>Basura urbana</td></tr>
+        <tr><td>Tierra/café</td><td>Desbordamientos</td></tr>
+        <tr><td>Vinagre oscuro</td><td>Vertimiento Punta Canoa</td></tr>
+      </table>
+    </div>
+
+    <div class="box">
+      <h2>📊 STEM+</h2>
+      <p><span class="badge">S</span> Ciencia: ecosistemas marinos.</p>
+      <p><span class="badge">T</span> Tecnología: mapas y fotos.</p>
+      <p><span class="badge">E</span> Ingeniería: prototipo con botella.</p>
+      <p><span class="badge">M</span> Matemáticas: tiempos de descomposición.</p>
+      <p><span class="badge">+</span> Artes y Sociales.</p>
+    </div>
+
+    <div class="box">
+      <h2>✅ Acciones</h2>
+      <ul>
+        <li>Usar botella de agua reusable.</li>
+        <li>Usar bolsas de tela.</li>
+        <li>Separar la basura reciclable.</li>
+        <li>No botar basura en la calle.</li>
+        <li>Cuidar los canales pluviales.</li>
+        <li>Recoger basura en la playa.</li>
+      </ul>
+    </div>
+
+    <div class="box">
+      <h2>🙋 Mi Promesa</h2>
+      <div class="promise-box">
+        <p><strong>Yo prometo:</strong></p>
+        <p>1. ____________________</p>
+        <p>2. ____________________</p>
+        <p>3. ____________________</p>
+        <p style="text-align:right;">Firma: ________</p>
+      </div>
+    </div>
+
+    <div class="box full">
+      <h2>📚 ¿Por qué es importante?</h2>
+      <div class="two-col">
+        <p>🔬 Existe un <strong>Plan Maestro para la Restauración Ecológica de la Bahía de Cartagena</strong>.</p>
+        <p>🐟 Se ha evaluado el <strong>riesgo en salud por mercurio</strong> en la bahía.</p>
+        <p>🌳 Hay estudios sobre <strong>basuras marinas en manglares urbanos</strong> de Cartagena.</p>
+        <p>⚠️ Se ha discutido la <strong>prohibición de la pesca</strong> por la condición del agua.</p>
+        <p>💧 Cartagena trabaja en mejorar el <strong>tratamiento de aguas residuales</strong>.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    Proyecto ExpoCiencia 2026 — "STEM+ for the Caribbean" — Kylian, Primer Grado — Cartagena, Colombia — Julio 2026
+  </div>
+</div>
+</body>
+</html>
